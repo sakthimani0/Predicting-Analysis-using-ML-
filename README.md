@@ -26,3 +26,4 @@ Final Accuracy:
 Usually around 93% to 100%, depending on the train-test split.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/24d93060-84d6-4cfa-894a-861e667bc900)
